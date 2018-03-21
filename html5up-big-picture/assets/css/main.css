@@ -2093,7 +2093,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/37.jpg");
+		background: url("images/overlay.png"), url("../../images/37_copy.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
