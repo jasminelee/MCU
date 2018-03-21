@@ -2093,7 +2093,7 @@
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/ZerothA.jpg");
+		background: url("images/overlay.png"), url("../../images/37.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2122,20 +2122,13 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/2.jpg");
+		background: url("images/overlay.png"), url("../../images/27.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Three */
 
-	#three {
-		background: url("images/overlay.png"), url("../../images/ThirdA.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
-	}	
 /* Contact */
 
 	#contact {
